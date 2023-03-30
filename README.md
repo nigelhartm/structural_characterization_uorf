@@ -5,3 +5,5 @@ Therefore we developed our own deep learning approach trained by proteins from t
 Additionally we did basic statistics on uORFs and tried to get more informations by using iupred2a to predict their intrinsic disorder.
 
 (more information will follow, please don't hesitate to contact me . . . )
+
+! actually this repository lacks of good documentation / commented code, it will be updated if there is time available
