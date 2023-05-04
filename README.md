@@ -6,4 +6,4 @@ Additionally we did basic statistics on uORFs and tried to get more informations
 
 (more information will follow, please don't hesitate to contact me . . . )
 
-! actually this repository lacks of good documentation / commented code, it will be updated if there is time available
+! actually this repository lacks of good documentation / commented code, it will be updated if there is time available. Reason is that most scripts just got used once.
