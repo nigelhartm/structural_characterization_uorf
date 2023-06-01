@@ -9,8 +9,7 @@ Additionally we did basic statistics on uORFs and tried to get more informations
 Actually this repository lacks of good documentation / commented code, it will be updated if there is time available. Reason is that most scripts just got used once.
 
 ## Presentation
-available under presentation.pdf
-content:
+available under presentation.pdf:
 1. Locate uORFs
 2. Statistics on uORFs
 3. Gene Ontology
