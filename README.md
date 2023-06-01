@@ -4,9 +4,9 @@ This project was developed in the third semester of my master degree bioinformat
 Therefore we developed our own deep learning approach trained by proteins from the PDB. We compared our results to the current front runner alphafold.
 Additionally we did basic statistics on uORFs and tried to get more informations by using iupred2a to predict their intrinsic disorder.
 
-(more information will follow, please don't hesitate to contact me . . . )
+(For more information please don't hesitate to contact me . . . )
 
-! actually this repository lacks of good documentation / commented code, it will be updated if there is time available. Reason is that most scripts just got used once.
+Actually this repository lacks of good documentation / commented code, it will be updated if there is time available. Reason is that most scripts just got used once.
 
 ## Presentation
 available under presentation.pdf
