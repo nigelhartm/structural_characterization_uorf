@@ -17,3 +17,7 @@ Available under presentation.pdf:
 5. Secondary structure prediction - AlphaFold
 6. Simple CNN vs AlphaFold
 7. Prediction of intrinsic disorder
+
+## Dataset
+
+The dataset, resulting form this project is available under https://www.kaggle.com/datasets/nigelhartm/arabidopsis-thaliana-uorf
