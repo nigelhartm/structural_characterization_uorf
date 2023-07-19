@@ -20,4 +20,4 @@ Available under presentation.pdf:
 
 ## Dataset
 
-The dataset, resulting form this project is available under https://www.kaggle.com/datasets/nigelhartm/arabidopsis-thaliana-uorf
+The dataset, resulting from this project is available under https://www.kaggle.com/datasets/nigelhartm/arabidopsis-thaliana-uorf
