@@ -8,6 +8,12 @@ Additionally we did basic statistics on uORFs and tried to get more informations
 
 Actually this repository lacks of good documentation / commented code, it will be updated if there is time available. Reason is that most scripts just got used once.
 
+## Results
+* Observed unique properties of uORFs
+* Results show uORFs maybe try to avoid defined structures
+* Machine learning approaches trained by proteins, not peptides!
+* Further research needed (different species, etc.)
+
 ## Presentation
 Available under presentation.pdf:
 1. Locate uORFs
@@ -19,5 +25,4 @@ Available under presentation.pdf:
 7. Prediction of intrinsic disorder
 
 ## Dataset
-
 The dataset, resulting from this project is available under https://www.kaggle.com/datasets/nigelhartm/arabidopsis-thaliana-uorf
